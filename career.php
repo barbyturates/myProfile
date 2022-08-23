@@ -40,7 +40,7 @@
             overflow: hidden;
         }
         .title {
-            font-family: Roboto;
+            font-family: Roboto, sans-serif;
             float: left;
             margin-left: 10px;
             margin-right: 150px;
@@ -52,7 +52,7 @@
         .menu {
             float: left;
             margin-left: 35px;
-            font-family: Roboto;
+            font-family: Roboto, sans-serif;
         }
         a {
             color: black;
@@ -101,7 +101,7 @@
             width: 1100px;
            background: whitesmoke;
             overflow: hidden;
-            font-family: Roboto;
+            font-family: Roboto, sans-serif;
             margin-bottom: 50px;
         }
         .goaltitle {
@@ -239,7 +239,7 @@
             color: white;
             font-size: 30px;
             text-align: center;
-            font-family: Roboto;
+            font-family: Roboto, sans-serif;
         }
         .closeAdd_btn {
         float: right;
@@ -282,7 +282,7 @@
             transition: 0.5s;
             outline: none;
             color: black;
-            font-family: Roboto;
+            font-family: Roboto, sans-serif;
             font-size: 12px;
         }
         .AddFormCont input:focus, .AddFormCont textarea:focus {
@@ -294,7 +294,7 @@
             color: white;
             padding-top: 7px;
             padding-bottom: 9px;
-            font-family: Roboto;
+            font-family: Roboto, sans-serif;
             font-weight: 800;
             font-size: 17px;
             letter-spacing: 1px;
@@ -367,7 +367,7 @@
             width: 1100px;
             background: white;
             overflow: hidden;
-            font-family: Roboto;
+            font-family: Roboto, sans-serif;
         }
         .rowone div {
             float: left;
@@ -424,7 +424,7 @@
                 overflow: hidden;
             }
             .footertitle {
-                font-family: Roboto;
+                font-family: Roboto, sans-serif;
                 float: left;
                 margin-left: 0px;
                 margin-right: 150px;
