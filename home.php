@@ -42,7 +42,7 @@
             overflow: hidden;
         }
         .title {
-            font-family: Roboto;
+            font-family: Roboto, sans-serif;
             float: left;
             margin-left: 10px;
             margin-right: 150px;
@@ -54,7 +54,7 @@
         .menu {
             float: left;
             margin-left: 35px;
-            font-family: Roboto;
+            font-family: Roboto, sans-serif;
         }
         a {
             color: black;
@@ -84,7 +84,7 @@
         }
         .mydesc {
             float: left;
-            font-family: Roboto;
+            font-family: Roboto, sans-serif;
             margin-top: 175px;
             margin-left: 20px;
         }
@@ -143,7 +143,7 @@
             width: 1100px;
            background: whitesmoke;
             overflow: hidden;
-            font-family: Roboto;
+            font-family: Roboto, sans-serif;
         }
         .aboutme{
             font-size: 120px;
@@ -300,7 +300,7 @@
             overflow: hidden;
         }
         .footertitle {
-            font-family: Roboto;
+            font-family: Roboto, sans-serif;
             float: left;
             margin-left: 0px;
             margin-right: 150px;
