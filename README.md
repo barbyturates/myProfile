@@ -11,6 +11,6 @@ Three main pages -
    Home/About - home.php
    Career Objectives - career.php
 
-Admin account-
+Admin account -
    username: fdbarbosa
    password: fdbarbosa
